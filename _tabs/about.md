@@ -14,6 +14,7 @@ This is an open-source systems blog focused on:
 * **PCB Design, KICAD**
 * **Hardware Validations & Verifications**
 * **Electronics & Lasers**
+* **3d-Printing**
 
 ## My Life
 I have been programming and ripping apart electronics almost every day since I was around 8. 

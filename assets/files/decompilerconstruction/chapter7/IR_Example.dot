@@ -1,0 +1,25 @@
+digraph G {
+    
+    // Style
+    node [shape=box, fontname="Courier New", fontsize=12, style=filled, fillcolor="#f9f9f9"];
+    edge [fontname="Arial", fontsize=10];
+
+    
+
+    Start [label="Start", shape=oval, fillcolor="#e1f5fe"];
+    
+    
+    Init [label="int32_t hello = 0;", fillcolor="#88E788"];
+    Head [label="while (hello < 100) {", fillcolor="#88E788"];  
+    Body [label="hello = hello + (hello * hello);", fillcolor="#88E788"];
+    Condition [label="}", fillcolor="#88E788"];
+    Pstat [label="printf(%d, %d\\n, hello, hello);", fillcolor="#88E788"];
+  
+    
+    Start -> Init;
+    Init -> Head;
+    Head -> Body;
+    Body -> Condition;
+    Condition -> Head;
+    Head -> Pstat;
+}

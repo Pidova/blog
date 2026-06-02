@@ -16,7 +16,7 @@ timezone:
 
 title: Low-Level Club # the main title
 
-tagline: Built on Results # it will display as the subtitle
+tagline: Direct Memory Acess # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A FOSS systems blog that focus on embedded systems, Microarchitecture, hardware/software, Verilog, validations, and more.
