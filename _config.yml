@@ -207,6 +207,10 @@ compress_html:
     envs: [development]
 
 exclude:
+  - .github/
+  - .sass-cache/
+  - .jekyll-cache/
+  - vendor/
   - "*.gem"
   - "*.gemspec"
   - docs
