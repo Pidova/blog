@@ -23,7 +23,7 @@ Outside of computers, I love CADing, 3D Printing, and sewing costumes and swords
 
 
 ## Mission Statement
-**To build a collection of the weird bugs, unexpected behaviors, and failures I have ran into while working on low-level systems—along with the philosophies I developed and fixes used to solve them.**
+**To build a collection of the weird bugs, unexpected behaviors, and failures I have ran into while working on low-level systems; along with the philosophies I developed and fixes used to solve them.**
 
 Mostly what you see in this blog is going to be around my one thousandth attempt from what I have learned working in this area sinse around 2019.
 Even if some solutions seem absolute genius do not let that discourage you, you will fail but if you crawl through the Shawshank Redemption Sewer of crap you will find a solution on the other end.
